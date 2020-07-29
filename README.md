@@ -35,8 +35,8 @@
  
 6)Второй уровень усложнен тремя лопастями, которые крутятся без остановки, тем самым, при попадании на них шара, меняют угол его траектории.
  
-![Screenshot_8](https://user-images.githubusercontent.com/65093579/88805126-70ce2580-d1b7-11ea-8a1f-0a6ed6057414.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/65093579/88805128-71ff5280-d1b7-11ea-8581-e1953a66b408.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/65093579/88805131-71ff5280-d1b7-11ea-8b12-2c25e6225c66.png)
+![Screenshot_8](https://user-images.githubusercontent.com/65093579/88805126-70ce2580-d1b7-11ea-8a1f-0a6ed6057414.png)
  
 7) Проведена работа с материалами, текстурами  и мешами.
